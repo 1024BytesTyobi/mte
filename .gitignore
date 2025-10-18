@@ -1,0 +1,3 @@
+./.venv/
+./mte/dist/
+./mte/poetry.lock
